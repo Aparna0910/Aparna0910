@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aparna</h1>
-<h3 align="center">A passionate machine learner from India.</h3>
+<h3 align="center"></h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aparna0910&label=Profile%20views&color=0e75b6&style=flat" alt="aparna0910" /> </p>
+
 
 - 🔭 I’m currently working on **development.**
 
@@ -24,7 +24,7 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/Aparna0910"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Aparna0910" /></a></p><br><br>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aparna0910&label=Profile%20views&color=0e75b6&style=flat" alt="aparna0910" /> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aparna0910&show_icons=true&locale=en&layout=compact" alt="aparna0910" /></p>
 
